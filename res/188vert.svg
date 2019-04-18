@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="43.384949"
-     inkscape:cy="192.98456"
+     inkscape:zoom="22.4"
+     inkscape:cx="49.616228"
+     inkscape:cy="24.429183"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,7 +54,8 @@
      inkscape:snap-midpoints="false"
      inkscape:snap-object-midpoints="false"
      inkscape:snap-center="false"
-     inkscape:snap-others="false" />
+     inkscape:snap-others="false"
+     showguides="false" />
   <metadata
      id="metadata85364">
     <rdf:RDF>
@@ -318,6 +319,54 @@
          id="path1747"
          inkscape:connector-curvature="0" />
     </g>
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.22034271"
+       id="path3769"
+       sodipodi:sides="3"
+       sodipodi:cx="132.40623"
+       sodipodi:cy="92.266119"
+       sodipodi:r1="3.0551453"
+       sodipodi:r2="1.5275725"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 135.05207,93.793694 -5.29167,0 2.64583,-4.582718 z"
+       inkscape:transform-center-y="-0.76379232" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.11978565"
+       id="rect1761"
+       width="1.0583333"
+       height="0.13229166"
+       x="217.27673"
+       y="35.357243"
+       transform="rotate(45)" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.11978566"
+       id="rect1761-7"
+       width="1.0583333"
+       height="0.13229166"
+       x="218.47331"
+       y="34.160656"
+       transform="rotate(45)" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.11978566"
+       id="rect1761-5"
+       width="1.0583333"
+       height="0.13229166"
+       x="217.93791"
+       y="35.930576"
+       transform="rotate(45)" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.11978566"
+       id="rect1761-3"
+       width="1.0583333"
+       height="0.13229166"
+       x="219.13451"
+       y="34.733982"
+       transform="rotate(45)" />
   </g>
   <g
      inkscape:groupmode="layer"
